@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'HOLA MUNDO';
+        echo 'prueba de rollback';
         ?>
     </body>
 </html>
